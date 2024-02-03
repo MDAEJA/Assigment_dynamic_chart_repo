@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); 
+    
+}
+
+canvas{
+    width: 100%;
+    max-width: 700px;
+    margin: 40px auto;
+    opacity: 1;
+}
